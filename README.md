@@ -2,13 +2,15 @@
 
 I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently completing my bachelor in computer science at [Concordia Univeristy](https://www.concordia.ca/)! I am a full stack web developer that is passionate about creating projects to make our lives easier. I love everything about web applications, automation and cybersecurity! I specialize in [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) web application development.
 
-
+<br/>
+<br/>
 
 ### ⚡ Connect with me:
 
 [<img align="left" alt="Antoine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoine-poulin/)
 
-
+<br/>
+<br/>
 
 ### 🔧 Technologies & Tools
 
@@ -28,7 +30,8 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 <i class="devicon-github-original"></i>
 <i class="devicon-linux-plain"></i>
 
-<br />
+<br/>
+<br/>
 
 ### 📈 GitHub Stats
 
