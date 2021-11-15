@@ -29,4 +29,4 @@ Did I tell you that I use arch by the way?
 
 ### Github Stats 📊
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true)
+![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&count_private=true)
