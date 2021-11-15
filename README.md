@@ -14,21 +14,19 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 
 ### 🔧 Technologies & Tools
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
-
-<i class="devicon-html5-plain-wordmark"></i>
-<i class="devicon-css3-plain-wordmark"></i>
-<i class="devicon-javascript-plain"></i>
-<i class="devicon-csharp-plain-wordmark"></i>
-<i class="devicon-java-plain"></i>
-<i class="devicon-python-plain"></i>
-<i class="devicon-microsoftsqlserver-plain"></i>
-<i class="devicon-mysql-plain"></i>
-<i class="devicon-unity-original"></i>
-<i class="devicon-vscode-plain"></i>
-<i class="devicon-git-plain"></i>
-<i class="devicon-github-original"></i>
-<i class="devicon-linux-plain"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 <br/>
 <br/>
