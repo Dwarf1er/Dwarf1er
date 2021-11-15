@@ -39,5 +39,6 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 </a>
 
 <br />
+<br />
 
 Did I tell you that I use arch by the way? <img align="left" alt="Arch Linux" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" />
