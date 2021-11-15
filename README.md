@@ -4,14 +4,14 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 
 <br/>
 
-### ⚡ Connect with me:
+### Connect with me ⚡
 
 [<img align="left" alt="Antoine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoine-poulin/)
 
 <br/>
 <br/>
 
-### 🔧 Technologies & Tools
+### Technologies & Tools 🔧
 
 <img align="left" height="26px" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" height="26px" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -31,7 +31,7 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 <br/>
 <br/>
 
-### 📈 GitHub Stats
+### GitHub Stats 📈
 
 <a href="https://github.com/Dwarf1er/Dwarf1er">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarf1er&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
