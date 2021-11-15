@@ -38,4 +38,6 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antoine's GitHub Stats" />
 </a>
 
+<br />
+
 Did I tell you that I use arch by the way? <img align="left" alt="Arch Linux" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" />
