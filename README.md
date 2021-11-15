@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there, I'm Antoine 👋
 
-<!--
-**Dwarf1er/Dwarf1er** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Everyone calls me Tony. I am from Montreal, QC and currently completing my bachelor in computer science at [Concordia Univeristy](https://www.concordia.ca/)! I am a full stack web developer that is passionate about creating projects to make our lives easier. I love everything about web applications, automation and cybersecurity!
 
-Here are some ideas to get you started:
+Did I tell you that I use arch by the way?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Antoine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
