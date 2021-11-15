@@ -25,6 +25,8 @@ Did I tell you that I use arch by the way?
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Arch Linux" width="26px" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" />
 
+<br />
+
 ### Github Stats 📊
 
-<img align="center" alt="Antoine's GitHub Stats" src="https://github-readme-stats.Dwarf1er.vercel.app/api?username=Dwarf1er&show_icons=true&hide_border=true" />
+![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true)
