@@ -2,8 +2,6 @@
 
 I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently completing my bachelor in computer science at [Concordia Univeristy](https://www.concordia.ca/)! I am a full stack web developer that is passionate about creating projects to make our lives easier. I love everything about web applications, automation and cybersecurity! I specialize in [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor) web application development.
 
-Did I tell you that I use arch by the way? <img align="left" alt="Arch Linux" width="22px" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" />
-
 ### ⚡ Connect with me:
 
 [<img align="left" alt="Antoine | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/antoine-poulin/)
@@ -39,3 +37,5 @@ Did I tell you that I use arch by the way? <img align="left" alt="Arch Linux" wi
 <a href="https://github.com/Dwarf1er/Dwarf1er">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antoine's GitHub Stats" />
 </a>
+
+Did I tell you that I use arch by the way? <img align="left" alt="Arch Linux" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" />
