@@ -10,7 +10,7 @@ Did I tell you that I use arch by the way?
 
 <br />
 
-### Languages and Tools:
+### 🔧 Technologies & Tools
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/Trevoule/readme-icons/blob/2bdf2d5945767a478d789982949c91c0415bea97/language_and_tools/square/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/Trevoule/readme-icons/blob/2bdf2d5945767a478d789982949c91c0415bea97/language_and_tools/square/css/css.png" />
@@ -27,6 +27,12 @@ Did I tell you that I use arch by the way?
 
 <br />
 
-### Github Stats 📊
+### &#x1f4c8; GitHub Stats
 
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&count_private=true)
+<a href="https://github.com/Dwarf1er/Dwarf1er">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarf1er&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/Dwarf1er/Dwarf1er">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antoine's GitHub Stats" />
+</a>
