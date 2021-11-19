@@ -38,7 +38,7 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 </a>
 
 <a href="https://github.com/Dwarf1er/Dwarf1er">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antoine's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dwarf1er&show_icons=true&line_height=27&count_private=true&hide=blade,shaderlab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Antoine's GitHub Stats" />
 </a>
 
 <br/>
