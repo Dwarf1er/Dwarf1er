@@ -45,3 +45,9 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 <br/>
 
 <p>Did I tell you I use <img alt="Arch Linux" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/archlinux/archlinux.png" /> by the way?</p>
+
+<!-- Visitor Counter -->
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>       
+</p>
