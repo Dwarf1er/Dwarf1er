@@ -49,5 +49,5 @@ I'm Antoine but everyone calls me Tony. I am from Montreal, QC and currently com
 <!-- Visitor Counter -->
 <p  align="center">
 <!--<img src="https://visitor-badge.glitch.me/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>-->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HunterShanks.HunterShanks" alt="visitor badge"/>       
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Dwarf1er.Dwarf1er" alt="visitor badge"/>       
 </p>
