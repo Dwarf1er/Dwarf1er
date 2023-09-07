@@ -63,4 +63,4 @@ Feel free to connect, collaborate, or chat tech anytime!
 <br/>
 <br/>
 
-<p>I use <img alt="Neovim" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/neovim/neovim.png" /> btw</p>
+<p align="center">I use <img alt="Neovim" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/neovim/neovim.png" /> btw</p>
