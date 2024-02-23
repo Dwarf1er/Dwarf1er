@@ -19,9 +19,9 @@
 
 I'm Antoine, a full-stack developer with a passion for crafting web applications. Here's what you should know about me:
 
-- 💻 I work as a programmer analyst, contributing to both back-end and front-end development to build robust web applications
+- 💻 I work as a full-stack developer, contributing to both back-end and front-end development to build robust web applications
 - 📚 I'm a perpetual learner, always exploring new technologies and trends in the ever-evolving tech world
-- 🔧 In my free time, you'll often find me tinkering with 3D projects and building unusual things
+- 🔧 In my free time, you'll often find me tinkering with 3D printing projects and building unusual things
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-antoine-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-poulin)
 
 Feel free to connect, collaborate, or chat tech anytime!
