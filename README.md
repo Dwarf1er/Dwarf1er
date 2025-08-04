@@ -1,57 +1,37 @@
 <div id="header" align="center">
-  <img src="https://antoinepoulin.com/assets/AntoinePoulinLogo-8b30a20c.svg#logo" width="85"/>
-  <br/><br/>
-  <div id="badges">
-    <a href="https://antoinepoulin.com">
-      <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=&logoColor=white" alt="Portfolio Badge"/>
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=Dwarf1er&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </div>
   <h1>
     Hello There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
 
-### :man_technologist: About Me
+### 👨‍🔧 About Me
 
-I'm Antoine, a full-stack developer passionate about building web applications and developer tools.
+I'm Antoine, a full-stack developer passionate about **automating complex processes** and building **developer tools**.
 
-- 🚀 Creator of **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)** – an open-source C# library to print, scale, and template ZPL labels
-- 🔨 Building dev tools to improve workflows and productivity  
-- ⚡ Always tinkering—3D printing, hardware, and side projects  
-
-📫 Reach me on [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-poulin)
+🚀 Creator of **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label automation  
+🔨 Working on: [Environment Variable Explorer](https://github.com/Dwarf1er/environment-variable-explorer) a cross-platform environment variable editor<br/>
+🔧 If it's repetitive, I'm automating it
 
 ---
 
-### ⭐ Star OpenLabel on GitHub!
+### 🛠️ Tech Stack
 
-
-
-</br>
 <div align="center">
-  If you find <a href="https://github.com/Dwarf1er/OpenLabel"><strong>OpenLabel</strong></a> useful or interesting, please consider starring it to help spread the word and support its development!
-  </br>
-  </br>
-  <a href="https://github.com/Dwarf1er/OpenLabel/stargazers">
-    <img src="https://img.shields.io/github/stars/Dwarf1er/OpenLabel?style=for-the-badge&logo=github" alt="GitHub Repo stars"/>
-  </a>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>
+  <img src="https://github.com/tryphotino/photino.Documentation/blob/master/photino-logo-rings.png" title="Photino .NET" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
 </div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools
+📫 **Let's connect:** [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-poulin)<br/>
+👨‍💻 **Check out my portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=Linkedin&logoColor=white)](https://antoinepoulin.com)
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
-</br>
-</br>
-</br>
-<p align="center">I use <img alt="Neovim" width="20x" src="https://github.com/github/explore/blob/bf9c50ef4444d03a559ffd7fed6b77e38ba91260/topics/neovim/neovim.png" /> btw</p>
+<p align="center">I use <img alt="Neovim" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" /> and <img alt="Neovim" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" /> btw</p>
