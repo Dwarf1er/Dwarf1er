@@ -10,7 +10,7 @@ I'm a software developer who automates workflows and builds tools that make deve
 - **[Environment Variable Explorer](https://github.com/Dwarf1er/environment-variable-explorer)** – Cross-platform desktop tool for managing environment variables
 - Leading a .NET Framework 4.5.2 → .NET 9.0 migration at work
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>
