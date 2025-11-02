@@ -6,10 +6,10 @@ I'm a backend developer specializing in internal tooling and developer productiv
 
 ## What I'm Working On
 
-- **Building platform tools at Algo Design** – CI/CD automation that reduced deployment time by 80%
-- **Learning Golang and Kubernetes** – Expanding into cloud-native platform engineering
-- **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)** – C# library for ZPL label printing that saved $25K annually
-- **[Environment Variable Explorer](https://github.com/Dwarf1er/environment-variable-explorer)** – Cross-platform tool for managing environment variables
+- **Building platform tools at Algo Design**
+- **Learning Golang and Kubernetes**
+- **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label printing
+- **[Environment Variable Explorer](https://github.com/Dwarf1er/environment-variable-explorer)**: Cross-platform tool for managing environment variables
 
 ## Tech Stack
 
@@ -30,13 +30,6 @@ I'm a backend developer specializing in internal tooling and developer productiv
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" width="40" height="40"/>
 </div>
-
-## Focus Areas
-
-- Internal tooling & developer experience
-- CI/CD pipelines & automation
-- REST APIs & microservices
-- Cloud-native development
 
 ## Connect
 
