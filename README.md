@@ -6,10 +6,9 @@ I'm a backend developer specializing in internal tooling and developer productiv
 
 ## What I'm Working On
 
-- **Building platform tools at Algo Design**
+- **Building platform tools and APIs at Algo Design*
 - **Learning Golang and Kubernetes**
 - **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label printing
-- **[Environment Variable Explorer](https://github.com/Dwarf1er/environment-variable-explorer)**: Cross-platform tool for managing environment variables
 
 ## Tech Stack
 
