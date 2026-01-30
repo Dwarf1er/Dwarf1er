@@ -2,13 +2,13 @@
 
 Most of my projects start the same way: **"There has to be a better way to do this."**
 
-I'm a backend developer specializing in internal tooling and developer productivity. I build CI/CD pipelines, create automation tools, and eliminate friction in development workflows. I use Linux, write code in Neovim, and believe good software should be open, transparent, and shareable.
+I'm a backend developer with a strong belief in FOSS and the Unix philosophy. I use Linux and CLI-first tools to build APIs, automation, and platform tooling.
 
 ## What I'm Working On
 
-- **Building platform tools and APIs at Algo Design*
-- **Learning Golang and Kubernetes**
+- **Building platform tools and APIs at Algo Design**
 - **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label printing
+- **Learning Golang and exploring Rust**
 
 ## Tech Stack
 
@@ -33,7 +33,13 @@ I'm a backend developer specializing in internal tooling and developer productiv
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/antoine-poulin)
-- [Portfolio](https://antoinepoulin.com)
+- [Website](https://antoinepoulin.com)
 - [Email](mailto:contact@antoinepoulin.com)
 
-<p align="center">I use <img alt="Neovim" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" /> and <img alt="Neovim" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" /> btw</p>
+<p align="center">
+  I use 
+  <img alt="Neovim" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" />
+  <img alt="Arch Linux" width="20px" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" />
+  <img alt="Hyprland" width="15px" src="https://github.com/homarr-labs/dashboard-icons/blob/main/png/hyprland.png" />
+   btw
+</p>
