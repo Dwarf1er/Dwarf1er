@@ -8,6 +8,7 @@ I'm a backend developer with a strong belief in FOSS and the Unix philosophy. I 
 
 - **Building platform tools and APIs at Algo Design**
 - **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label printing
+- **[Sobarch](https://github.com/Dwarf1er/sobarch)**: My own Arch-based linux "distro"
 - **Learning Golang and exploring Rust**
 
 ## Tech Stack
