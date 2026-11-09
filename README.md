@@ -2,21 +2,38 @@
 
 Most of my projects start the same way: **"There has to be a better way to do this."**
 
-I'm a backend developer with a strong belief in FOSS and the Unix philosophy. I use Linux and CLI-first tools to build APIs, automation, and platform tooling.
+I'm a software developer with a strong interest in Linux, automation, infrastructure, and developer tooling. I build software and tools that simplify workflows and make systems easier to operate.
+
+## What I Build
+
+- Developer tools and automation
+- Cross-platform applications and CLIs
+- Linux systems and custom distributions
+- Reusable libraries
 
 ## What I'm Working On
 
-- **Building platform tools and APIs at Algo Design**
-- **[OpenLabel](https://github.com/Dwarf1er/OpenLabel)**: C# library for ZPL label printing
-- **[Sobarch](https://github.com/Dwarf1er/sobarch)**: My own Arch-based linux "distro"
-- **Learning Golang and exploring Rust**
+- [Sobarch](https://sobarch.antoinepoulin.com): A custom Arch Linux distribution.
+- [SQL Anywhere MCP](https://github.com/Dwarf1er/sqlanywhere-mcp): Cross-platform MCP server for SQL Anywhere 17.
+- [OpenLabel](https://github.com/Dwarf1er/openlabel): C# library for ZPL label printing.
+- [forestair-ir-rs](https://github.com/Dwarf1er/forestair-ir-rs): A Rust implementation of a complete air conditioner remote infrared protocol, reverse-engineered and running on an ESP32.
+
+<p align="center">
+  <em>Watch my reverse engineering talk at Code @ Québec (in French)</em>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=Zmq2x9Xt8Ak">
+    <img
+      src="https://img.youtube.com/vi/Zmq2x9Xt8Ak/maxresdefault.jpg"
+      alt="ForestAir IR reverse engineering presentation (in French)"
+      width="720"
+    />
+  </a>
+</p>
 
 ## Tech Stack
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>
@@ -24,7 +41,6 @@ I'm a backend developer with a strong belief in FOSS and the Unix philosophy. I 
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub Actions" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
