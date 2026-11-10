@@ -2,21 +2,17 @@
 
 Most of my projects start the same way: **"There has to be a better way to do this."**
 
-I'm a software developer with a strong interest in Linux, automation, infrastructure, and developer tooling. I build software and tools that simplify workflows and make systems easier to operate.
+I'm a software developer with a background in IT and systems administration. I started out administering Windows and Linux servers, moved into software development, and kept ending up on the same kind of work: CI/CD, automation, Linux, and internal tools that remove repetitive work for other developers.
 
-## What I Build
+At work, I built a cross-platform desktop app and CLI that about 20 developers use to manage their local development environments, with builds and distribution automated through GitHub Actions.
 
-- Developer tools and automation
-- Cross-platform applications and CLIs
-- Linux systems and custom distributions
-- Reusable libraries
+## Projects
 
-## What I'm Working On
-
-- [Sobarch](https://sobarch.antoinepoulin.com): A custom Arch Linux distribution.
-- [SQL Anywhere MCP](https://github.com/Dwarf1er/sqlanywhere-mcp): Cross-platform MCP server for SQL Anywhere 17.
-- [OpenLabel](https://github.com/Dwarf1er/openlabel): C# library for ZPL label printing.
-- [forestair-ir-rs](https://github.com/Dwarf1er/forestair-ir-rs): A Rust implementation of a complete air conditioner remote infrared protocol, reverse-engineered and running on an ESP32.
+- [Sobarch](https://sobarch.antoinepoulin.com): a custom Arch Linux distribution with its own installer and monthly signed ISOs built by GitHub Actions. BTRFS/Snapper snapshots boot straight from the Limine menu.
+- [SQL Anywhere MCP](https://github.com/Dwarf1er/sqlanywhere-mcp): a cross-platform MCP server that lets AI assistants explore SAP SQL Anywhere 17 databases. Published on NuGet with CI-built releases for Windows, Linux, and macOS.
+- [OpenLabel](https://github.com/Dwarf1er/openlabel): an open-source C# library for ZPL label printers, with network printing, DPI scaling, and conditional templates.
+- [forestair-ir-rs](https://github.com/Dwarf1er/forestair-ir-rs): the complete infrared protocol of an air conditioner remote, reverse-engineered and reimplemented in Rust on an ESP32.
+- [esp-wifi-provisioning](https://github.com/Dwarf1er/esp-wifi-provisioning): captive-portal Wi-Fi provisioning for ESP32, published on crates.io.
 
 <p align="center">
   <em>Watch my reverse engineering talk at Code @ Québec (in French)</em>
